@@ -46,8 +46,8 @@
     "pluralize": "8.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-angular": "^8.3.4",
+    "@commitlint/cli": "8.3.5",
+    "@commitlint/config-angular": "8.3.4",
     "@types/fs-extra": "9.0.2",
     "@types/jest": "26.0.14",
     "@types/node": "12.12.31",
@@ -62,7 +62,7 @@
     "husky": "4.3.0",
     "jest": "26.5.3",
     "nyc": "15.1.0",
-    "release-it": "^12.4.3",
+    "release-it": "12.4.3",
     "ts-jest": "26.4.1",
     "ts-node": "9.0.0",
     "typescript": "3.9.7"
